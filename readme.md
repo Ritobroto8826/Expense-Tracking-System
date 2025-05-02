@@ -2,8 +2,8 @@
 # Expense Management System
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
-With this you can track your expenses for a particular day, for a range of date grouped on category or for different months grouped on category.
-This has been used with Mysql database
+With this you can track your expenses for a particular day, for a range of date grouped on category or for different months grouped on category./n
+This has been used with Mysql database so get a expense_database to get the best use of this project.
 
 ## Project Structure
 
@@ -47,6 +47,8 @@ This has been used with Mysql database
 ### Analytics_by_day with pie chart
 ![analytics_by_day_demo](https://github.com/user-attachments/assets/c10df243-30a0-4d48-9a20-dce2186dd7b2)
 
+### Mysql expense_database
+![sql_database](https://github.com/user-attachments/assets/632e0392-41d1-4e0f-9f59-3f5cb19e67ba)
 
 
 
