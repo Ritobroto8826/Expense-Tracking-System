@@ -1,0 +1,12 @@
+streamlit == 1.45.0
+fastapi == 0.115.12
+pydantic == 2.11.3
+my-sql-connector == 9.3.0
+pandas == 2.2.3
+requests == 2.32.3
+pytest
+uvicorn
+matplotlib
+
+
+
