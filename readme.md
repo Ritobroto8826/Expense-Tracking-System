@@ -35,19 +35,27 @@ This has been used with Mysql database so get a expense_database to get the best
    ```
 
 ## Expense Tracker Management System Demo 
-### App_demo
+### • App_demo
 ![app_demo](https://github.com/user-attachments/assets/2b456024-ac15-43e9-a3a7-b98dccc5ca0b)
 
-### Analytics_by_category with bar chart
+
+
+## • Analytics_by_category with bar chart
 ![analytics_by_category_demo](https://github.com/user-attachments/assets/5f55479f-1b2a-484a-89e0-1ebb44939550)
 
-### Analytics_by_month with bar chart
+
+
+## • Analytics_by_month with bar chart
 ![analytics_by_month_demo](https://github.com/user-attachments/assets/014d5d1a-7a2f-4930-9f37-6eb7aa21b600)
 
-### Analytics_by_day with pie chart
+
+
+## • Analytics_by_day with pie chart
 ![analytics_by_day_demo](https://github.com/user-attachments/assets/c10df243-30a0-4d48-9a20-dce2186dd7b2)
 
-### Mysql expense_database
+
+
+## • Mysql expense_database
 ![sql_database](https://github.com/user-attachments/assets/632e0392-41d1-4e0f-9f59-3f5cb19e67ba)
 
 
